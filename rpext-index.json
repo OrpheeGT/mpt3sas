@@ -1,6 +1,6 @@
 {
   "id": "dogodefi.mpt3sas",
-  "url": "https://raw.githubusercontent.com/dogodefi/mpt3sas/main/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/OrpheeGT/mpt3sas/main/rpext-index.json",
   "info": {
     "name": "mpt3sas",
     "description": "Adds LSI MPT Fusion SAS 3.0 Device Driver Support",
