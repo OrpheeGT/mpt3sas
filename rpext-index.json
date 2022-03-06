@@ -4,8 +4,8 @@
   "info": {
     "name": "mpt3sas",
     "description": "Adds LSI MPT Fusion SAS 3.0 Device Driver Support",
-    "author_url": "https://github.com/dogodefi",
-    "packer_url": "https://github.com/dogodefi/mpt3sas",
+    "author_url": "https://github.com/OrpheeGT",
+    "packer_url": "https://github.com/OrpheeGT/mpt3sas",
     "help_url": "<todo>"
   },
   "releases": {
